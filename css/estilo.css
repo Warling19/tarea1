@@ -1,0 +1,25 @@
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      color: #0a0000;
+      text-align: center;
+    }
+    
+    p {
+      color: #0a0000;
+    }
+    
+    .contact-info {
+      margin-top: 20px;
+    }
+    
+    .hobbies-list {
+      margin-top: 20px;
+    }
+ img{
+    width: 20%;
+    padding: 1rem;
+ }
